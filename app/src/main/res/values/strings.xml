@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">STMIK Akakom</string>
+    <string name="textView10">\tDalam abad ke-20 ini dunia banyak diwarnai dengan berbagai kemajuan
+        secara menakjubkan yang telah diciptakan oleh umat manusia, baik dibidang ilmu maupun
+        teknologi.Menanggapi kondisi zaman seperti tersebut di atas, pada tanggal 30 Juni 1979
+        didirikan sebuah yayasan dengan nama Yayasan Pendidikan Widya Bakti, yang bertujuan
+        mengembangkan dan menyebarluaskan informatika dan teknologi komputer di kalangan masyarakat
+        indonesia melalui usaha pendidikan yang sistematis dan ilmiah. Yayasan tersebut mengelola
+        sebuah akademi yang bernama Akademi Aplikasi Komputer, disingkat AKAKOM.\n\n
+    \tTerhitung mulai 1 Maret 1983, Akademi Aplikasi Komputer (AKAKOM), diubah menjadi Akademi
+        Komputer dan Informatika AKAKOM. Selanjutnya terhitung mulai tanggal 2 Mei 1985,
+        nama Akademi Komputer dan Informatika AKAKOM diubah dan dibakukan menjadi Akademi Manajemen
+        Informatika dan Komputer (AMIK) AKAKOM.\n\n
+    Agar lembaga tersebut mampu menghasilkan tenaga-tenaga profesional maupun akademik yang lebih
+        berbobot dalam bidang informatika dan komputer, maka sejak tanggal 8 Juni 1992, berdasarkan
+        Surat Keputusan Direktorat Jendral Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan
+        I Nomor 262/DIKTI/Kep/1992, AMIK AKAKOM diubah bentuknya menjadi Sekolah Tinggi Manajemen
+        Informatika dan Komputer (STMIK) AKAKOM yang membuka program sarjana dan program diploma.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textView11">1. A. Budi Sugiharjo, S.E., M.M.\n\n
+    2. Adi Kusjani, S.T., M.Eng.\n\n
+3. Adiyuda Prayitna, S.T., M.T.\n\n
+4. Agung Budi Prasetyo, S.Kom., M.Kom.\n\n
+5. Al. Agus Subagyo, S.E., M.Si.\n\n
+6. Ariesta Damayanti, S.Kom., M.Cs.\n\n
+7. Badiyanto, S.Kom., M.Kom.\n\n
+8. Dr. Bambang Purnomosidi Dwi Putranto, S.Kom., S.E., MMSI.\n\n
+9. asuki Heri Winarno, S.Pd., M.Kom.\n\n
+10. Drs. Berta Bednar, M.T.\n\n
+11. Cosmas Haryawan, S.Kom., M.Cs.\n\n
+12. Cuk Subiyantoro, S.Kom., M.Kom.\n\n
+13. Danny Kriestanto, S.Kom., M.Eng.\n\n
+14. Dara Kusumawati, S.E., M.M.\n\n
+15. Deborah Kurniawati, S.Kom., M.Cs.\n\n
+16. Dini Fakta Sari, S.T., M.T.\n\n
+17. Dison Librado, S.E., M.Kom.\n\n
+18. Domy Kristomo, S.T., M.T.\n\n
+19. Edi Faizal, S.T., M.Cs.\n\n
+20. Edi Iskandar, S.T., M.Cs.\n\n
+21. Edy Prayitno, S.Kom., M.Eng\n\n
+22. Emy Susanti, S.Kom., M.Cs.\n\n
+23. Endang Wahyuningsih, S.Kom., M.Cs.\n\n
+24. Erna Hudianti Pujiarini, S.Si., M.Si.\n\n
+25. Dra. F. Wiwiek Nurwiyati, M.T.\n\n
+26. Febri Nova Lenti, S.Si., M.T.\n\n
+27. Femi Dwi Astuti, S.Kom., M.Cs.\n\n
+28. Fx.Henry Nugroho, S.T., M.Cs.\n\n
+29. Ir. Hera Wasiati, M.M.\n\n
+30. Heru Agus Triyanto, S.E., M.M.\n\n
+31. Ilham Rais Arvianto, S.Pd., M.Pd.\n\n
+32. Indra Yatini S.Kom., M.Kom.\n\n
+33. LN Harnaningrum, S.Si., M.T.\n\n
+34. Luthfan Hadi Pramono, S.ST., M.T.\n\n
+35. M. Agung Nugroho, S.Kom., M.Kom.\n\n
+36. Ir. M. Guntara, M.T.\n\n
+37. Maria Mediatrix, S.Kom., M.Eng.\n\n
+38. Merarinta Ginting, S.T., M.Eng.\n\n
+39. Nafisatul Lutfi, M.A., S.S.\n\n
+40. Pius Dian Widi Anggoro, S.Si., M.Cs.\n\n
+41. Pulut Suryati, S.Si., M.Cs.\n\n
+42. Robby Cokro Buwono, S.Si., M.Kom.\n\n
+43. Sari Iswanti, S.Si., M.Kom.\n\n
+44. Siska Lidya Revianti, S.Pd., M.Hum.\n\n
+45. Sri Redjeki, S. Si, M.Kom.\n\n
+46. Ir. Sudarmanto, M.T.\n\n
+47. Sumiyatun, S.Kom., M.Cs.\n\n
+48. Sur Yanti, S.E., M.Sc.\n\n
+49. Dra. Syamsu Windarti, M.T., Apt.\n\n
+50. Thomas Edyson Tarigan, S.Kom., M.Cs.\n\n
+51. Totok Budioko, S.T., M.T.\n\n
+52. Ir. Totok Suprawoto, M.M., M.T.\n\n
+53. Tri Prabawa, Drs., M.Kom.\n\n
+54. Wagito, S.T., M.T.\n\n
+55. Widyastuti Andriyani, S.Kom., M.Kom.\n\n
+56. Y. Yohakim Marwanta, S.Kom., M.Cs.\n\n
+57. Yagus Cahyadi, S.T., M.Eng.\n\n
+58. Yudhi Kusnanto, S.T., M.T.\n\n
+59. Yosef Murya Kusuma Ardhana, S.T., M.Kom.\n\n
+
+
+    </string>
+    <string name="textView9">Akakom mempunyai 11 lab, diantaranya : \n
+    a. Lab Multi Media\n
+    b. Lab Jaringan Komputer\n
+    c. Lab Basis Data\n
+    d. Lab Aplikasi\n
+    e. Lab Perangkat Keras\n
+    f. Lab Peripheral\n
+    g. Lab Akuntansi\n
+    h. Lab Cloud Computing dan Big Data\n
+    i. Lab Pemrograman\n
+    j. Lab komputer dasar\n
+    k. Lab Bahasa\n\n2. Perpustakaan\n\n3. Student Lounge\n\n4. Ruang Presentasi\n\n5. Masjid
+    </string>
+
+<string name="textView6">DOSEN \nSTMIK AKAKOM \nYOGYAKARTA
+    </string>
+    <string name="dosen">TODO</string>
+    <string name="textView8">FASILITAS\nSTMIK\nAKAKOM\nYOGYAKARTA</string>
+    <string name="Lab">1. Laboratorium</string>
+    <string name="fasilitas">TODO</string>
+    <string name="lab1">TODO</string>
+    <string name="lab3">TODO</string>
+    <string name="lab2">TODO</string>
+    <string name="lab4">TODO</string>
+    <string name="lab5">TODO</string>
+    <string name="profil">Profil STMIK Akakom</string>
+    <string name="prodi">Program Studi</string>
+    <string name="dosenn">Dosen</string>
+    <string name="fasilitass">Fasilitas</string>
+    <string name="ukm">UKM</string>
+    <string name="facility">TODO</string>
+    <string name="lecture">TODO</string>
+    <string name="header">TODO</string>
+    <string name="major">TODO</string>
+    <string name="ukmm">TODO</string>
+    <string name="profill">TODO</string>
+</resources>

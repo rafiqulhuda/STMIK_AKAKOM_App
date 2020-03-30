@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment3">
+    <fragment
+        android:id="@+id/dosenFragment3"
+        android:name="com.example.stmikakakomapp.DosenFragment"
+        android:label="fragment_dosen"
+        tools:layout="@layout/fragment_dosen" />
+    <fragment
+        android:id="@+id/homeFragment3"
+        android:name="com.example.stmikakakomapp.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment3_to_dosenFragment3"
+            app:destination="@id/dosenFragment3" />
+        <action
+            android:id="@+id/action_homeFragment3_to_fasilitasFragment2"
+            app:destination="@id/fasilitasFragment2" />
+        <action
+            android:id="@+id/action_homeFragment3_to_ukmFragment3"
+            app:destination="@id/ukmFragment3" />
+        <action
+            android:id="@+id/action_homeFragment3_to_prodiFragment"
+            app:destination="@id/prodiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fasilitasFragment2"
+        android:name="com.example.stmikakakomapp.FasilitasFragment"
+        android:label="fragment_fasilitas"
+        tools:layout="@layout/fragment_fasilitas" />
+    <fragment
+        android:id="@+id/ukmFragment3"
+        android:name="com.example.stmikakakomapp.UkmFragment"
+        android:label="fragment_ukm"
+        tools:layout="@layout/fragment_ukm" />
+    <fragment
+        android:id="@+id/prodiFragment"
+        android:name="com.example.stmikakakomapp.ProdiFragment"
+        android:label="fragment_prodi"
+        tools:layout="@layout/fragment_prodi" />
+</navigation>
